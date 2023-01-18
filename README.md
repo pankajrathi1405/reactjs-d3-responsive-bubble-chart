@@ -1,2 +1,3 @@
 # reactjs-d3-responsive-bubble-chart
-Created with CodeSandbox
+
+sample responsive bubble chart using d3.js
