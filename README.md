@@ -3,7 +3,7 @@
 sample responsive bubble chart using d3.js
 
 
-# Responsive preview for:
+# Make responsive for screens sizes:
 ```
 {
   "Mobile": [
